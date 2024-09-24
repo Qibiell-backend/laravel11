@@ -12,6 +12,8 @@
 
     <a href="/">Home</a>
     <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    <a href="/blog">Blog</a>
     <h1>halaman utama</h1>
 
     
